@@ -40,9 +40,17 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
+  flutter_launcher_icons: ^0.9.3
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/app_icon/sawa_company_logo.png"
+
+
+
   flutter_native_splash: ^2.2.6
 flutter_native_splash:
-  image: assets/splash_image/sawa_company.png
+  image: assets/splash_image/sawa_company_logo.png
   color: "#ffffff"
 
   # The "flutter_lints" package below contains a set of recommended lints to
