@@ -3,7 +3,7 @@ import 'package:sawa_applications/util/app_names.dart';
 import 'package:sawa_applications/util/images_path.dart';
 
 import '../components/components.dart';
-import '../util/url_luncher.dart';
+import '../util/url_launcher.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({Key? key}) : super(key: key);
